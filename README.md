@@ -1,4 +1,4 @@
-# Sentiment_Analysis_Using_DeepLearning_BERT
+# Sentiment Analysis Using Traditional DeepLearning and BERT
 The project explores the performance of different neural network architectures and compares them with BERT's approach to understand how each model processes and predicts sentiment.
 
 **Traditional Deep Learning Models**
